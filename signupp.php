@@ -6,7 +6,7 @@ $full_name=$_POST['full_name'];
 $e_mail=$_POST['e_mail'];
 $pass=$_POST['pass'];
 
-
+//ghfghf
         
 
 
